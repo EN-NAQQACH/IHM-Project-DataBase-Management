@@ -5,7 +5,7 @@
 - [@YassineKader](https://www.github.com/YassineKader)
 - [@ENNAQQACH](https://www.github.com/ENNAQQACH)
 
-Welcome to our Mysql database manager project with a Swing-based graphical user interface (GUI) in Java.
+Welcome to our Mysql database manager project created using Swing-based graphical user interface (GUI) in Java.
 
 Our project conatin 2 graphical interfaces 
 
