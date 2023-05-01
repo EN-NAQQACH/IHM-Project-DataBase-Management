@@ -3,7 +3,7 @@
 #### Authors
 
 - [@YassineKader](https://www.github.com/YassineKader)
-- [@ENNAQQACH](https://www.github.com/ENNAQQACH)
+- [@EN-NAQQACH](https://www.github.com/EN-NAQQACH)
 
 Welcome to our Mysql database manager project created using Swing-based graphical user interface (GUI) in Java.
 
